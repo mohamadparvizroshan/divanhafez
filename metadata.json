@@ -1,0 +1,6 @@
+{
+  "name": "دیوان حافظ",
+  "description": "برنامه فاخر و کامل دیوان و فال حافظ شیرازی به دو زبان فارسی و انگلیسی همراه با تفسیر، ترانویسی آوایی و جستجو در اشعار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
